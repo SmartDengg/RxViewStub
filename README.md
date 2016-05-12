@@ -38,7 +38,8 @@ RxViewStub.inflateEvent(viewStub)
           .subscribe(new Action1<ViewStubEvent>() {
               @Override
               public void call(ViewStubEvent viewStubEvent) {
-                  // Do stuff
+                  //In this, you can get the inflated view
+                  View inflated = viewStubEvent.getInflated();
               }
           });
 ```
