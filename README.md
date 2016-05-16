@@ -51,7 +51,7 @@ RxViewStub.inflateEvent(viewStub)
 Preview
 --------
 
-![](./images/RxStubView.gif)
+![](./images/RxViewStub.gif)
 
 
 Developed By
