@@ -5,7 +5,11 @@
 
 Sketch
 --------
-//Todo
+
+Sometimes your layout might require complex views that are rarely used. "Gone" or "Invisible" is not a good idea fot that, because these properties can't prevent view add to the view hierarchy and also hurt performance. But the [ViewStub](http://developer.android.com/intl/zh-cn/reference/android/view/ViewStub.html) is an invisible and zero-sized view that can be used to lazy loading on demand. Similarly, with reduce memory usage, use ViewStub can also speed up rendering by loading the views only when they are real needed.
+
+
+RxViewStub is similar to [RxBinding](https://github.com/JakeWharton/RxBinding), wrapped an inflate listener into an  Observable. It's very simply and lightweight :)
 
 Usage
 --------
@@ -38,7 +42,7 @@ RxViewStub.inflateEvent(viewStub)
           .subscribe(new Action1<ViewStubEvent>() {
               @Override
               public void call(ViewStubEvent viewStubEvent) {
-                  //In this, you can get the inflated view
+                  //After inflation, you can get the inflated view
                   View inflated = viewStubEvent.getInflated();
               }
           });
