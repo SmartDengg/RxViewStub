@@ -31,7 +31,7 @@ allprojects {
 
 ```java
 dependencies {
-    compile 'com.github.SmartDengg:RxViewStub:0.0.1' 
+    compile 'com.github.SmartDengg:RxViewStub:1.0.0' 
 }
 ```
 
