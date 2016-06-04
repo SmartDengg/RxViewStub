@@ -1,7 +1,7 @@
 #RxViewStub
 [![](https://jitpack.io/v/SmartDengg/RxViewStub.svg)](https://jitpack.io/#SmartDengg/RxViewStub)
-[![Method count](https://img.shields.io/badge/method count  - 49-ff69b4.svg?style=flat)](http://www.methodscount.com/?lib=com.github.SmartDengg%3ARxViewStub%3A1.0.0)
-[![Size](https://img.shields.io/badge/size  - 8 KB-ff69b4.svg?style=flat)](http://www.methodscount.com/?lib=com.github.SmartDengg%3ARxViewStub%3A1.0.0)
+[![Method count](https://img.shields.io/badge/Method count  - 49-ff69b4.svg?style=flat)](http://www.methodscount.com/?lib=com.github.SmartDengg%3ARxViewStub%3A1.0.0)
+[![Size](https://img.shields.io/badge/Size  - 8 KB-ff69b4.svg?style=flat)](http://www.methodscount.com/?lib=com.github.SmartDengg%3ARxViewStub%3A1.0.0)
 
 [![GitHub stars](https://img.shields.io/github/stars/SmartDengg/RxViewStub.svg?style=social&label=Star&maxAge=2592000?style=plastic)](https://github.com/SmartDengg/RxViewStub/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/SmartDengg/RxViewStub.svg?style=social&label=Fork&maxAge=2592000?style=plastic)](https://github.com/SmartDengg/RxViewStub/network)
