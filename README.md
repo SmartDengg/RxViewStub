@@ -7,7 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/SmartDengg/RxViewStub.svg?style=social&label=Fork&maxAge=2592000?style=plastic)](https://github.com/SmartDengg/RxViewStub/network)
 [![GitHub issues](https://img.shields.io/github/issues/SmartDengg/RxViewStub.svg?style=social&label=Issue&maxAge=2592000?style=plastic)](https://github.com/SmartDengg/RxViewStub/issues)
 
-[![GitHub license](https://img.shields.io/badge/license  - MIT-blue.svg?style=flat-square)](LICENSE.txt)
+[![GitHub license](https://img.shields.io/badge/License  - MIT-blue.svg?style=flat-square)](LICENSE.txt)
 
 
 ![](./images/icon.png)
