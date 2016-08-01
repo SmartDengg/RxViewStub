@@ -1,3 +1,6 @@
+| README.md |
+|:---|
+
 #RxViewStub
 [![](https://jitpack.io/v/SmartDengg/RxViewStub.svg)](https://jitpack.io/#SmartDengg/RxViewStub)
 [![Method count](https://img.shields.io/badge/Method count  - 49-ff69b4.svg?style=flat)](http://www.methodscount.com/?lib=com.github.SmartDengg%3ARxViewStub%3A1.0.0)
